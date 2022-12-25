@@ -1,0 +1,12 @@
+export const ADD_LINE = 'ADD_LINE';
+export const UPDATE_LINE = 'UPDATE_LINE';
+export const ADD_RECTANGLE = 'ADD_RECTANGLE';
+export const UPDATE_RECTANGLE = 'UPDATE_RECTANGLE';
+export const ADD_ELLIPSE = 'ADD_ELLIPSE';
+export const UPDATE_ELLIPSE = 'UPDATE_ELLIPSE';
+export const ADD_TEXT = 'ADD_TEXT';
+export const UPDATE_TEXT = 'UPDATE_TEXT';
+export const ADD_DIAGRAM_ELEMENT = 'ADD_DIAGRAM_ELEMENT';
+export const UPDATE_DIAGRAM_ELEMENT = 'UPDATE_DIAGRAM_ELEMENT';
+export const ADD_STAMP = 'ADD_STAMP';
+export const UPDATE_STAMP = 'UPDATE_STAMP';
